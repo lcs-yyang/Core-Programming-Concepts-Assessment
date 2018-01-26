@@ -23,6 +23,15 @@
  
  */
 // Answer question 3 below
+var spendingMoney = 0.0
+spendingMoney += 50.0
+spendingMoney /= 3.0
+spendingMoney += 10.0
+spendingMoney -= 10.0
+spendingMoney -= 5.50
+spendingMoney *= 2.0
+print(spendingMoney)
+
 
 /*:
  ## Now share your understanding
